@@ -23,7 +23,6 @@ function CabinView({ cabin }) {
 				</h3>
 
 				<p className="text-lg text-primary-300 mb-10">
-					{/* TextExpander is now just a regular React component like all others */}
 					<TextExpander>{description}</TextExpander>
 				</p>
 
