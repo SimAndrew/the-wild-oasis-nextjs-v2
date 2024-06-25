@@ -14,6 +14,11 @@ export default function App({ Component, pageProps }) {
 			<Head>
 				<title>The Wild Oasis</title>
 				<link rel="icon" href="logo.png" />
+				<meta
+					name="description"
+					content="Luxurious cabin Hotel, located in the heart of the Italian Dolomites, surrounded by beautiful mountains and dark forests."
+					key="desc"
+				/>
 			</Head>
 
 			<div
